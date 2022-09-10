@@ -1,9 +1,7 @@
 # tech_notes_BE
 
-#### MERN STACK PROJECT 
+#### MERN STACK PROJECT:
 <!-- ![Alt Text](https://media.giphy.com/media/quEsMOrr3hmQ8/giphy.gif) -->
-##
-### my skills:
 <p float="left">
  <img src="https://github.com/mongodb-js/leaf/raw/master/dist/mongodb-leaf_128x128.png" width="40" height="40">
   <img src="https://raw.githubusercontent.com/yurijserrano/Github-Profile-Readme-Logos/f994c418a134b58c4aec11152f6a4a33fa89da26/programming%20languages/javascript.svg" width="40" height="40">
