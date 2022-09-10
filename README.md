@@ -1,6 +1,6 @@
 # tech_notes_BE
 
-#### MERN STACK PROJECT:
+#### MERN STACK PROJECT: BACK END
 <!-- ![Alt Text](https://media.giphy.com/media/quEsMOrr3hmQ8/giphy.gif) -->
 <p float="left">
  <img src="https://github.com/mongodb-js/leaf/raw/master/dist/mongodb-leaf_128x128.png" width="40" height="40">
