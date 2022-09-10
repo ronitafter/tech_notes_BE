@@ -1,0 +1,38 @@
+// POST  create new user
+http://localhost:3500/users
+{
+    "username": "A",
+    "password": "A123",
+    "roles":["Employee"]
+}
+
+// GET get users
+http://localhost:3500/users
+ {
+        "_id": "631708227b05b830b244a58a",
+        "username": "A",
+        "roles": [
+            "Employee"
+        ],
+        "active": true,
+        "__v": 0
+    }
+
+// PATCH update user info
+http://localhost:3500/users
+{
+        "id": "631709087b05b830b244a592",
+        "username": "Cc",
+        "roles": [
+            "Employee"
+        ],
+        "active": false,
+        "__v": 0
+    }
+
+// DELETE delete user
+http://localhost:3500/users
+    {
+   "id": "63170adf7b05b830b244a59d",
+    "password": "D123"
+}
