@@ -1,6 +1,6 @@
 # tech_notes_BE
 
-#### Hi there 👋  My name is Ronit and :computer: I’m a full stack developer
+#### MERN STACK PROJECT 
 <!-- ![Alt Text](https://media.giphy.com/media/quEsMOrr3hmQ8/giphy.gif) -->
 ##
 ### my skills:
